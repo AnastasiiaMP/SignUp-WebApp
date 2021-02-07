@@ -1,0 +1,20 @@
+body {
+  color: #FEFFF4;
+}
+
+.jumbotron {
+  background-color: #43A3BF;
+}
+
+.button-text {
+  color: #056276;
+}
+
+.link-text {
+  color: #EFDC03;
+  font-weight: bold;
+}
+
+.link-text:hover {
+  color: #FEFFF4;
+}
